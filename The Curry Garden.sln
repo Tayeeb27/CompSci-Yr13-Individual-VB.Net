@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "The Curry Garden", "ProtoType1.0\The Curry Garden.vbproj", "{340ECFC7-40A2-410B-9A17-B52BB0575FE1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6494C664-3DC1-4921-B316-928C59774DAF}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{340ECFC7-40A2-410B-9A17-B52BB0575FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340ECFC7-40A2-410B-9A17-B52BB0575FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340ECFC7-40A2-410B-9A17-B52BB0575FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340ECFC7-40A2-410B-9A17-B52BB0575FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {944B4FE6-D027-4784-9133-417E08304D31}
+	EndGlobalSection
+EndGlobal
